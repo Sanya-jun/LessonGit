@@ -4,7 +4,6 @@ const pool = new Pool({
   password: "root",
   host: "localhost",
   port: 5432,
-  chart: 1251,
   database: "mern",
 });
 
